@@ -1,0 +1,42 @@
+.content, footer.foot {
+    width: 60%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+.content h1, .content h2, .content h3, .content h4 {
+    margin: 0.5em 0 0.5em;
+    font-weight: bold;
+}
+
+.content h1 {
+    font-size: 2.5em;
+}
+.content h2 {
+    font-size: 2.25em;
+}
+.content h3 {
+    font-size: 2em;
+}
+
+.content h4 {
+    font-size: 1.5em;
+}
+
+.content p {
+    text-align: justify;
+    font-size: 1.5em;
+}
+
+.content li p{
+    margin-top: 0.25;
+}
+
+footer.foot {
+    vertical-align: bottom;
+}
+
+footer.foot a{
+    text-decoration: none;
+}
+
